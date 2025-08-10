@@ -18,6 +18,17 @@ const users = [
   { id: "1", name: "John Doe", age: 30, isMarried: true },
   { id: "2", name: "Jane Smith", age: 25, isMarried: false },
   { id: "3", name: "Alice Johnson", age: 28, isMarried: false },
+  // Additional sample users with Indian names
+  { id: "4", name: "Aarav Sharma", age: 27, isMarried: false },
+  { id: "5", name: "Priya Patel", age: 24, isMarried: false },
+  { id: "6", name: "Rahul Verma", age: 32, isMarried: true },
+  { id: "7", name: "Ananya Iyer", age: 29, isMarried: false },
+  { id: "8", name: "Vikram Singh", age: 35, isMarried: true },
+  { id: "9", name: "Neha Kapoor", age: 26, isMarried: false },
+  { id: "10", name: "Aditi Nair", age: 31, isMarried: true },
+  { id: "11", name: "Rohan Gupta", age: 23, isMarried: false },
+  { id: "12", name: "Kavya Reddy", age: 28, isMarried: false },
+  { id: "13", name: "Sanjay Mehta", age: 34, isMarried: true },
 ];
 
 // GraphQL Schema Definition Language (SDL)
